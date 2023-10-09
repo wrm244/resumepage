@@ -7,7 +7,7 @@ Build with <a href="https://hexo.io/zh-cn/index.html">HEXO</a> <br/>
 <a href="https://wrm244.github.io/resume"> Github Pages</a>
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/wrm244/resume?label=update&logo=github) [![Netlify Status](https://api.netlify.com/api/v1/badges/5db8174d-fe3f-4ada-a963-5a52a131788c/deploy-status)](https://app.netlify.com/sites/wrm244/deploys) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+![GitHub last commit](https://img.shields.io/github/last-commit/wrm244/resumepage?label=update&logo=github) [![Netlify Status](https://api.netlify.com/api/v1/badges/5db8174d-fe3f-4ada-a963-5a52a131788c/deploy-status)](https://app.netlify.com/sites/wrm244/deploys) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 <p align=center>
 <a href="https://www.netlify.com/" target="_blank"><img alt="Built with Netlify" height:"50px" src="https://wrm244.github.io/assets/images/netlify-color-accent.svg" /></a>     
